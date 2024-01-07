@@ -1,0 +1,877 @@
+{
+  "users": [
+    {
+      "firstName": "Harsh",
+      "lastName": "Patel",
+      "email": "harshmp2605@gmail.com",
+      "phoneNo": "56563456456",
+      "dob": "1993-05-26",
+      "gender": "Male",
+      "username": "harsh123",
+      "role": "admin",
+      "country": "United States",
+      "state": "CA",
+      "profileStatus": "active",
+      "password": "test1234",
+      "id": 1,
+      "userProfileImageUrl": "https://picsum.photos/id/100/200/300",
+      "userPost": [
+        {
+          "text": "we all human! we should respect eachother!",
+          "imageUrl": "https://picsum.photos/200/300",
+          "postTime": "2023-10-09T20:24:36.318Z",
+          "userPostId": 1
+        },
+        {
+          "text": "we all human! we should support eachother!",
+          "imageUrl": "https://picsum.photos/seed/picsum/200/300",
+          "postTime": "2023-10-09T20:24:36.318Z",
+          "userPostId": 2
+        },
+        {
+          "text": "Love is the Key!!",
+          "imageUrl": "https://picsum.photos/200/300/?blur",
+          "postTime": "2023-10-09T20:24:36.318Z",
+          "userPostId": 3
+        },
+        {
+          "text": "God Loves US!!",
+          "imageUrl": "https://picsum.photos/200/300?grayscale",
+          "postTime": "2023-10-09T23:33:09.012Z",
+          "userPostId": 4
+        },
+        {
+          "text": "Mother Nature helps us to live!!",
+          "imageUrl": "https://picsum.photos/id/1/200/300",
+          "postTime": "2023-10-09T23:37:20.327Z",
+          "userPostId": 6
+        },
+        {
+          "text": "God is Everywhere!!",
+          "imageUrl": "https://picsum.photos/id/5/200/300",
+          "postTime": "2023-10-10T00:22:07.544Z",
+          "userPostId": 7
+        },
+        {
+          "text": "Friends Are Forever!!",
+          "imageUrl": "https://picsum.photos/id/13/200/300",
+          "postTime": "2023-10-13T21:57:04.142Z",
+          "userPostId": 8
+        },
+        {
+          "text": "God is Great!",
+          "imageUrl": "https://picsum.photos/id/22/200/300",
+          "postTime": "2023-10-16T10:33:32.806Z",
+          "userPostId": 9
+        },
+        {
+          "text": "We must obey the Laws of the country!",
+          "imageUrl": "https://picsum.photos/id/127/200/300",
+          "postTime": "2023-10-16T10:46:05.442Z",
+          "userPostId": 10
+        },
+        {
+          "text": "Think Positive, Rest will follow!",
+          "imageUrl": "https://picsum.photos/id/101/200/300",
+          "postTime": "2023-10-16T10:52:00.745Z",
+          "userPostId": 11
+        },
+        {
+          "text": "We love our Mother Land",
+          "imageUrl": "https://picsum.photos/id/111/200/300",
+          "postTime": "2023-10-16T11:00:52.170Z",
+          "userPostId": 12
+        },
+        {
+          "text": "We should help poor people!",
+          "imageUrl": "https://picsum.photos/id/121/200/300",
+          "postTime": "2023-10-16T11:09:09.658Z",
+          "userPostId": 13
+        },
+        {
+          "text": "lovely puppy",
+          "imageUrl": "https://picsum.photos/id/237/200/300",
+          "postTime": "2024-01-07T03:51:29.253Z",
+          "userPostId": 14
+        }
+      ],
+      "userConnectionReq": [
+        {
+          "reqFriendName": "Samson Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/31/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 1
+        },
+        {
+          "reqFriendName": "Pankaj Sutiya",
+          "reqFriendImgUrl": "https://picsum.photos/id/32/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 2
+        },
+        {
+          "reqFriendName": "Raj Sanam",
+          "reqFriendImgUrl": "https://picsum.photos/id/33/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 3
+        }
+      ],
+      "acceptedUserFriends": [
+        {
+          "reqFriendName": "Jitun Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/22/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 6
+        },
+        {
+          "reqFriendName": "Rahul Popat",
+          "reqFriendImgUrl": "https://picsum.photos/id/12/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 7
+        },
+        {
+          "reqFriendName": "Ansh Pandya",
+          "reqFriendImgUrl": "https://picsum.photos/id/34/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 4
+        }
+      ],
+      "rejectedUserFriends": [
+        {
+          "reqFriendName": "Soniya Sharma",
+          "reqFriendImgUrl": "https://picsum.photos/id/27/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 8
+        },
+        {
+          "reqFriendName": "Kiran Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/22/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 9
+        }
+      ],
+      "cancelledUserFriends": [
+        {
+          "reqFriendName": "Jack Mason",
+          "reqFriendImgUrl": "https://picsum.photos/id/22/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 10
+        },
+        {
+          "reqFriendName": "Kinjal Patel",
+          "reqFriendImgUrl": "https://picsum.photos/id/18/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 11
+        },
+        {
+          "reqFriendName": "Bisma Suru",
+          "reqFriendImgUrl": "https://picsum.photos/id/35/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 5
+        }
+      ]
+    },
+    {
+      "firstName": "Diva",
+      "lastName": "Shah",
+      "email": "diva.shah@gmail.com",
+      "phoneNo": "9824325645",
+      "dob": "1990-01-01",
+      "gender": "Female",
+      "username": "diva123",
+      "role": "user",
+      "country": "US",
+      "state": "PA",
+      "profileStatus": "active",
+      "password": "test1234",
+      "id": 2,
+      "userProfileImageUrl": "https://picsum.photos/id/40/200/300",
+      "userPost": [
+        {
+          "text": "We Love God!",
+          "imageUrl": "https://loremflickr.com/320/240/dog",
+          "postTime": "2023-10-09T20:41:25.877Z",
+          "userPostId": 4
+        },
+        {
+          "text": "We Love Birds!",
+          "imageUrl": "https://loremflickr.com/g/320/240/paris",
+          "postTime": "2023-10-09T20:45:24.214Z",
+          "userPostId": 2
+        }
+      ],
+      "userConnectionReq": [
+        {
+          "reqFriendName": "Priti Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/41/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 1
+        },
+        {
+          "reqFriendName": "Amood Modi",
+          "reqFriendImgUrl": "https://picsum.photos/id/42/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 2
+        },
+        {
+          "reqFriendName": "Babu Rao",
+          "reqFriendImgUrl": "https://picsum.photos/id/43/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 3
+        },
+        {
+          "reqFriendName": "Amrish Dhaval",
+          "reqFriendImgUrl": "https://picsum.photos/id/44/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 4
+        },
+        {
+          "reqFriendName": "Aroon Suru",
+          "reqFriendImgUrl": "https://picsum.photos/id/45/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 5
+        }
+      ],
+      "acceptedUserFriends": [
+        {
+          "reqFriendName": "Rishi Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/47/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 6
+        },
+        {
+          "reqFriendName": "Finel Popat",
+          "reqFriendImgUrl": "https://picsum.photos/id/48/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 7
+        }
+      ],
+      "rejectedUserFriends": [
+        {
+          "reqFriendName": "Soniya Raj",
+          "reqFriendImgUrl": "https://picsum.photos/id/49/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 8
+        },
+        {
+          "reqFriendName": "Kiran Chudasama",
+          "reqFriendImgUrl": "https://picsum.photos/id/50/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 9
+        }
+      ],
+      "cancelledUserFriends": [
+        {
+          "reqFriendName": "Jack Bond",
+          "reqFriendImgUrl": "https://picsum.photos/id/51/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 10
+        },
+        {
+          "reqFriendName": "Kiran Sharma",
+          "reqFriendImgUrl": "https://picsum.photos/id/52/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 11
+        }
+      ]
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Chacha",
+      "email": "jill.chacha@tcs.com",
+      "phoneNo": "9824325645",
+      "dob": "1990-01-01",
+      "gender": "Male",
+      "username": "jill123",
+      "role": "user",
+      "country": "US",
+      "state": "CA",
+      "profileStatus": "active",
+      "password": "test1234",
+      "id": 3,
+      "userProfileImageUrl": "https://picsum.photos/id/50/200/300",
+      "userPost": [
+        {
+          "text": "we all human! we should respect eachother!",
+          "imageUrl": "https://picsum.photos/200/300",
+          "postTime": "",
+          "userPostId": 1
+        },
+        {
+          "text": "we all human! we should support eachother!",
+          "imageUrl": "https://picsum.photos/seed/picsum/200/300",
+          "postTime": "",
+          "userPostId": 2
+        },
+        {
+          "text": "Love is the Key!!",
+          "imageUrl": "https://picsum.photos/200/300/?blur",
+          "postTime": "2023-10-09T20:24:36.318Z",
+          "userPostId": 3
+        },
+        {
+          "text": "God Loves US!!",
+          "imageUrl": "https://picsum.photos/200/300?grayscale",
+          "postTime": "2023-10-09T23:33:09.012Z",
+          "userPostId": 4
+        },
+        {
+          "text": "Mother Nature helps us to live!!",
+          "imageUrl": "https://picsum.photos/id/1/200/300",
+          "postTime": "2023-10-09T23:37:20.327Z",
+          "userPostId": 6
+        },
+        {
+          "text": "God is Everywhere!!",
+          "imageUrl": "https://picsum.photos/id/5/200/300",
+          "postTime": "2023-10-10T00:22:07.544Z",
+          "userPostId": 7
+        },
+        {
+          "text": "Friends Are Forever!!",
+          "imageUrl": "https://picsum.photos/id/13/200/300",
+          "postTime": "2023-10-13T21:57:04.142Z",
+          "userPostId": 8
+        }
+      ],
+      "userConnectionReq": [
+        {
+          "reqFriendName": "Priti Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/51/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 1
+        },
+        {
+          "reqFriendName": "Amood Modi",
+          "reqFriendImgUrl": "https://picsum.photos/id/52/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 2
+        },
+        {
+          "reqFriendName": "Babu Rao",
+          "reqFriendImgUrl": "https://picsum.photos/id/53/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 3
+        },
+        {
+          "reqFriendName": "Amrish Dhaval",
+          "reqFriendImgUrl": "https://picsum.photos/id/54/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 4
+        },
+        {
+          "reqFriendName": "Aroon Suru",
+          "reqFriendImgUrl": "https://picsum.photos/id/55/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 5
+        }
+      ],
+      "acceptedUserFriends": [
+        {
+          "reqFriendName": "Rishi Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/56/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 6
+        },
+        {
+          "reqFriendName": "Finel Popat",
+          "reqFriendImgUrl": "https://picsum.photos/id/57/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 7
+        }
+      ],
+      "rejectedUserFriends": [
+        {
+          "reqFriendName": "Soniya Raj",
+          "reqFriendImgUrl": "https://picsum.photos/id/58/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 8
+        },
+        {
+          "reqFriendName": "Kiran Chudasama",
+          "reqFriendImgUrl": "https://picsum.photos/id/59/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 9
+        }
+      ],
+      "cancelledUserFriends": [
+        {
+          "reqFriendName": "Jack Bond",
+          "reqFriendImgUrl": "https://picsum.photos/id/60/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 10
+        },
+        {
+          "reqFriendName": "Kiran Sharma",
+          "reqFriendImgUrl": "https://picsum.photos/id/61/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 11
+        }
+      ]
+    },
+    {
+      "firstName": "Pinak",
+      "lastName": "Soni",
+      "email": "pinak.soni@tcs.com",
+      "phoneNo": "1234567890",
+      "dob": "1999-10-10",
+      "gender": "Male",
+      "username": "pinak123",
+      "role": "user",
+      "country": "USA",
+      "state": "NY",
+      "profileStatus": "active",
+      "password": "test1234",
+      "id": 5,
+      "userProfileImageUrl": "https://picsum.photos/id/60/200/300",
+      "userPost": [
+        {
+          "text": "Love is the Key!!",
+          "imageUrl": "https://picsum.photos/200/300/?blur",
+          "postTime": "2023-10-09T20:24:36.318Z",
+          "userPostId": 3
+        },
+        {
+          "text": "God Loves US!!",
+          "imageUrl": "https://picsum.photos/200/300?grayscale",
+          "postTime": "2023-10-09T23:33:09.012Z",
+          "userPostId": 4
+        }
+      ],
+      "userConnectionReq": [
+        {
+          "reqFriendName": "Priti Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/61/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 1
+        },
+        {
+          "reqFriendName": "Amood Modi",
+          "reqFriendImgUrl": "https://picsum.photos/id/62/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 2
+        },
+        {
+          "reqFriendName": "Babu Rao",
+          "reqFriendImgUrl": "https://picsum.photos/id/63/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 3
+        },
+        {
+          "reqFriendName": "Amrish Dhaval",
+          "reqFriendImgUrl": "https://picsum.photos/id/64/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 4
+        },
+        {
+          "reqFriendName": "Aroon Suru",
+          "reqFriendImgUrl": "https://picsum.photos/id/65/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 5
+        }
+      ],
+      "acceptedUserFriends": [
+        {
+          "reqFriendName": "Rishi Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/66/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 6
+        },
+        {
+          "reqFriendName": "Finel Popat",
+          "reqFriendImgUrl": "https://picsum.photos/id/67/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 7
+        }
+      ],
+      "rejectedUserFriends": [
+        {
+          "reqFriendName": "Soniya Raj",
+          "reqFriendImgUrl": "https://picsum.photos/id/68/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 8
+        },
+        {
+          "reqFriendName": "Kiran Chudasama",
+          "reqFriendImgUrl": "https://picsum.photos/id/69/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 9
+        }
+      ],
+      "cancelledUserFriends": [
+        {
+          "reqFriendName": "Jack Bond",
+          "reqFriendImgUrl": "https://picsum.photos/id/70/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 10
+        },
+        {
+          "reqFriendName": "Kiran Sharma",
+          "reqFriendImgUrl": "https://picsum.photos/id/71/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 11
+        }
+      ]
+    },
+    {
+      "firstName": "Pamela",
+      "lastName": "Sharma",
+      "email": "pamela.sharma@tcs.com",
+      "phoneNo": "",
+      "dob": "1992-10-10",
+      "gender": "",
+      "username": "pamela123",
+      "role": "user",
+      "country": "",
+      "state": "",
+      "profileStatus": "block",
+      "password": "test1234",
+      "id": 6,
+      "userProfileImageUrl": "https://picsum.photos/id/70/200/300",
+      "userPost": [
+        {
+          "text": "Love is the Key!!",
+          "imageUrl": "https://picsum.photos/200/300/?blur",
+          "postTime": "2023-10-09T20:24:36.318Z",
+          "userPostId": 3
+        },
+        {
+          "text": "God Loves US!!",
+          "imageUrl": "https://picsum.photos/200/300?grayscale",
+          "postTime": "2023-10-09T23:33:09.012Z",
+          "userPostId": 4
+        },
+        {
+          "text": "Mother Nature helps us to live!!",
+          "imageUrl": "https://picsum.photos/id/1/200/300",
+          "postTime": "2023-10-09T23:37:20.327Z",
+          "userPostId": 6
+        },
+        {
+          "text": "God is Everywhere!!",
+          "imageUrl": "https://picsum.photos/id/5/200/300",
+          "postTime": "2023-10-10T00:22:07.544Z",
+          "userPostId": 7
+        },
+        {
+          "text": "Friends Are Forever!!",
+          "imageUrl": "https://picsum.photos/id/13/200/300",
+          "postTime": "2023-10-13T21:57:04.142Z",
+          "userPostId": 8
+        }
+      ],
+      "userConnectionReq": [
+        {
+          "reqFriendName": "Priti Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/71/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 1
+        },
+        {
+          "reqFriendName": "Amood Modi",
+          "reqFriendImgUrl": "https://picsum.photos/id/72/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 2
+        },
+        {
+          "reqFriendName": "Babu Rao",
+          "reqFriendImgUrl": "https://picsum.photos/id/73/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 3
+        },
+        {
+          "reqFriendName": "Amrish Dhaval",
+          "reqFriendImgUrl": "https://picsum.photos/id/74/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 4
+        },
+        {
+          "reqFriendName": "Aroon Suru",
+          "reqFriendImgUrl": "https://picsum.photos/id/75/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 5
+        }
+      ],
+      "acceptedUserFriends": [
+        {
+          "reqFriendName": "Rishi Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/76/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 6
+        },
+        {
+          "reqFriendName": "Finel Popat",
+          "reqFriendImgUrl": "https://picsum.photos/id/77/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 7
+        }
+      ],
+      "rejectedUserFriends": [
+        {
+          "reqFriendName": "Soniya Raj",
+          "reqFriendImgUrl": "https://picsum.photos/id/78/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 8
+        },
+        {
+          "reqFriendName": "Kiran Chudasama",
+          "reqFriendImgUrl": "https://picsum.photos/id/79/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 9
+        }
+      ],
+      "cancelledUserFriends": [
+        {
+          "reqFriendName": "Jack Bond",
+          "reqFriendImgUrl": "https://picsum.photos/id/80/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 10
+        },
+        {
+          "reqFriendName": "Kiran Sharma",
+          "reqFriendImgUrl": "https://picsum.photos/id/81/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 11
+        }
+      ]
+    },
+    {
+      "firstName": "Ritu",
+      "lastName": "Nigam",
+      "email": "ritu.nigam@tcs.com",
+      "phoneNo": "6152439870",
+      "dob": "1980-02-02",
+      "gender": "Female",
+      "username": "ritu1234",
+      "role": "user",
+      "country": "USA",
+      "state": "CA",
+      "profileStatus": "active",
+      "password": "test1234",
+      "id": 7,
+      "userProfileImageUrl": "https://picsum.photos/id/80/200/300",
+      "userPost": [
+        {
+          "text": "Love is the Key!!",
+          "imageUrl": "https://picsum.photos/200/300/?blur",
+          "postTime": "2023-10-09T20:24:36.318Z",
+          "userPostId": 3
+        },
+        {
+          "text": "God Loves US!!",
+          "imageUrl": "https://picsum.photos/200/300?grayscale",
+          "postTime": "2023-10-09T23:33:09.012Z",
+          "userPostId": 4
+        },
+        {
+          "text": "Friends Are Forever!!",
+          "imageUrl": "https://picsum.photos/id/13/200/300",
+          "postTime": "2023-10-13T21:57:04.142Z",
+          "userPostId": 8
+        }
+      ],
+      "userConnectionReq": [
+        {
+          "reqFriendName": "Priti Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/81/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 1
+        },
+        {
+          "reqFriendName": "Amood Modi",
+          "reqFriendImgUrl": "https://picsum.photos/id/82/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 2
+        },
+        {
+          "reqFriendName": "Babu Rao",
+          "reqFriendImgUrl": "https://picsum.photos/id/83/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 3
+        },
+        {
+          "reqFriendName": "Amrish Dhaval",
+          "reqFriendImgUrl": "https://picsum.photos/id/84/200/300",
+          "reqStatus": "Pending",
+          "friendReqBoolean": true,
+          "friendReqID": 4
+        },
+        {
+          "reqFriendName": "Aroon Suru",
+          "reqFriendImgUrl": "https://picsum.photos/id/85/200/300",
+          "reqStatus": "Sent",
+          "friendReqBoolean": true,
+          "friendReqID": 5
+        }
+      ],
+      "acceptedUserFriends": [
+        {
+          "reqFriendName": "Rishi Macwan",
+          "reqFriendImgUrl": "https://picsum.photos/id/86/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 6
+        },
+        {
+          "reqFriendName": "Finel Popat",
+          "reqFriendImgUrl": "https://picsum.photos/id/87/200/300",
+          "reqStatus": "Accepted",
+          "friendReqBoolean": false,
+          "friendReqID": 7
+        }
+      ],
+      "rejectedUserFriends": [
+        {
+          "reqFriendName": "Soniya Raj",
+          "reqFriendImgUrl": "https://picsum.photos/id/88/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 8
+        },
+        {
+          "reqFriendName": "Kiran Chudasama",
+          "reqFriendImgUrl": "https://picsum.photos/id/89/200/300",
+          "reqStatus": "Rejected",
+          "friendReqBoolean": false,
+          "friendReqID": 9
+        }
+      ],
+      "cancelledUserFriends": [
+        {
+          "reqFriendName": "Jack Bond",
+          "reqFriendImgUrl": "https://picsum.photos/id/90/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 10
+        },
+        {
+          "reqFriendName": "Kiran Sharma",
+          "reqFriendImgUrl": "https://picsum.photos/id/91/200/300",
+          "reqStatus": "Cancelled",
+          "friendReqBoolean": false,
+          "friendReqID": 11
+        }
+      ]
+    },
+    {
+      "firstName": "Saloni",
+      "lastName": "Dave",
+      "email": "saloni.dave@tcs.com",
+      "phoneNo": "918273645512",
+      "dob": "1987-10-10",
+      "gender": "Female",
+      "username": "saloni1234",
+      "role": "user",
+      "country": "India",
+      "state": "Gujrat",
+      "profileStatus": "active",
+      "password": "test1234",
+      "id": 8,
+      "userProfileImageUrl": "https://picsum.photos/id/140/200/300",
+      "userPost": [],
+      "userConnectionReq": [],
+      "acceptedUserFriends": [],
+      "rejectedUserFriends": [],
+      "cancelledUserFriends": []
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Jackson",
+      "email": "sara.jack@tcs.com",
+      "phoneNo": "",
+      "dob": "1988-01-12",
+      "gender": "",
+      "username": "sara1234",
+      "role": "admin",
+      "country": "",
+      "state": "",
+      "profileStatus": "active",
+      "password": "test1234",
+      "id": 9,
+      "userProfileImageUrl": "https://picsum.photos/id/130/200/300",
+      "userPost": [],
+      "userConnectionReq": [],
+      "acceptedUserFriends": [],
+      "rejectedUserFriends": [],
+      "cancelledUserFriends": []
+    },
+    {
+      "firstName": "Kirtan",
+      "lastName": "Patel",
+      "email": "kirtan.patel@tcs.com",
+      "phoneNo": "918273645568",
+      "dob": "1991-02-11",
+      "gender": "Male",
+      "username": "kirtan123",
+      "role": "user",
+      "country": "India",
+      "state": "UP",
+      "profileStatus": "active",
+      "password": "test1234",
+      "id": 10,
+      "userProfileImageUrl": "https://picsum.photos/id/110/200/300",
+      "userPost": [],
+      "userConnectionReq": [],
+      "acceptedUserFriends": [],
+      "rejectedUserFriends": [],
+      "cancelledUserFriends": []
+    }
+  ]
+}
